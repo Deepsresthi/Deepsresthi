@@ -1,5 +1,4 @@
-# 💫 About Me:
-"SWE building things for the web"<br>🌱 I’m currently learning Front End Development.<br>👯 I’m looking to collaborate on WebDev Projects<br>📫 How to reach me deepsresthi@gmail.com
+"Hey, I am a Software Engineer who likes to build things for the web. <br>📫 How to reach me dev.deepsresthi@gmail.com
 
 
 ## 🌐 Socials:
